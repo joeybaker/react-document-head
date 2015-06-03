@@ -1,5 +1,5 @@
 {
-  "version": "0.0.0",
+  "version": "1.0.0",
   "name": "react-document-head",
   "description": "Simple function to isomorphically set the <title> on the server and the client in a React workflow.",
   "author": {
