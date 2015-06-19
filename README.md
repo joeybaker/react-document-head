@@ -1,3 +1,7 @@
+# #####
+# Deprecated. Use [react-helmet](https://github.com/nfl/react-helmet) instead
+# #####
+
 # react-document-head [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-url]][daviddm-image] [![Build Status][travis-image]][travis-url]
 
 Simple function to isomorphically set the &lt;title&gt; on the server and the client in a React workflow.
